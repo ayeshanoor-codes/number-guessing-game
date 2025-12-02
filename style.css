@@ -28,7 +28,8 @@ body {
     border-radius: 16px;
     text-align: center;
     color: #fff;
-    box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+    box-shadow: 0 5px 40px black;
+    background-color: rgb(158, 154, 154);
 }
 
 .game-container h1 {
