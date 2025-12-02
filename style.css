@@ -103,7 +103,9 @@ body {
         max-width: 330px;
         padding: 22px 18px;
         backdrop-filter: blur(10px);
-        box-shadow: 0 8px 25px rgba(221, 219, 219, 0.2);
+        box-shadow: 0 4px 25px rgba(233, 229, 229, 0.2);
+        background-color: black;
+
 }
 
     
