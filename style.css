@@ -10,7 +10,7 @@ body {
     background-image: url(./assets/background-img.jpeg);
     background-repeat: no-repeat;
     background-position-x: center;
-    background-position-y: -80px;
+    background-position-y: -250px;
     background-size: cover;
     min-height: 100vh;
     display: flex;
@@ -94,10 +94,13 @@ body {
 
 /* Media Queries */
 @media (max-width: 480px) {
+    body{
+    background-position-y: 0px;
+
+    }
         .game-container {
         max-width: 330px;
         padding: 22px 18px;
-        margin-top: -40px;
         backdrop-filter: blur(10px);
         box-shadow: 0 8px 25px rgba(221, 219, 219, 0.2);
 }
