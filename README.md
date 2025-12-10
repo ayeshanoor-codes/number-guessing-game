@@ -78,15 +78,11 @@ let randomNum = Math.floor(Math.random() * 100) + 1;
 ## Author
 
 Developed by **Ayesha Noor**.
-Feel free to use, improve, or customize this project.
+
 
 ---
 
-## License
 
-This project is open-source and free to use for learning and practice.
-
----
 
 If you like this project, consider giving the repo a ⭐ on GitHub!
 
